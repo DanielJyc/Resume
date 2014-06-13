@@ -1,0 +1,83 @@
+\documentclass[11pt,a4paper]{moderncv}
+
+\usepackage{fontspec,xunicode,xltxtra}
+
+\defaultfontfeatures{Scale=MatchLowercase}
+\setmainfont[Numbers=OldStyle,Mapping=tex-text]{Times New Roman}
+\setsansfont[Mapping=tex-text]{Arial}
+\setmonofont{Courier New}
+
+\usepackage[BoldFont,SlantFont,CJKchecksingle,CJKnumber,CJKtextspaces]{xeCJK}
+\setCJKmainfont[BoldFont={Adobe Heiti Std},ItalicFont={Adobe Kaiti Std}]{Adobe Song Std}
+\setCJKsansfont{Adobe Heiti Std}
+\setCJKmonofont{Adobe Fangsong Std}
+\punctstyle{hangmobanjiao}
+\defaultfontfeatures{Mapping=tex-text}
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+\usepackage{xcolor}
+\linespread{1.2}
+
+\moderncvtheme[blue]{casual}
+
+\usepackage[scale=0.91]{geometry}
+\AtBeginDocument{\recomputelengths}
+
+\firstname{San}
+\familyname{Zhang}
+\title{Curriculum Vitae}
+\address{Address}{Postcode}
+\mobile{Mobile}
+\phone{Phone}
+\fax{Fax}
+\email{Email}
+\homepage{Homepage}
+\photo[64pt]{picture.jpg}
+\quote{\textit{Career Objective: XXX}}
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+\maketitle
+
+\section{Personal Information}
+\cvcomputer{Name:}{San Zhang}{Gender:}{Male}
+\cvcomputer{Nationality:}{Han}{Birthday:}{xxx}
+
+\section{Educational Background}
+\cventry{Year -- Year}{Degree}{Institution}{City}{Grade}{Decription}
+\cventry{Year -- Year}{Degree}{Institution}{City}{Grade}{Decription}
+
+\section{Research Experience}
+\cvline{Year -- Year}{Description}
+\cvline{}{$\bullet$ Project ONE}
+\cvline{}{$\bullet$ Project TWO}
+
+\section{Personal Skills}
+\cvline{Computer}{$\bullet$ Description}
+\cvline{}{$\bullet$ Decription}
+\smallskip
+\cvline{English}{$\bullet$ Decription} 
+\cvline{}{$\bullet$ Description}
+
+\section{Awards}
+\cvlistitem[$\bullet$]{Decription}
+\cvlistitem[$\bullet$]{Decription}
+
+\section{Hobbies}
+\cvlistitem[$\bullet$]{Decription}
+\cvlistitem[$\bullet$]{Description}
+
+\section{Self-assessment}
+\cvline{Study}{Description}
+\cvline{Research}{Decription}
+
+\begin{thebibliography}{99}
+\bibitem{1}\textbf{Zhang San}, Li Si, Wang Wu. (Year). Title. \textit{Journal}, \ldots.
+\bibitem{2}\textbf{Zhang San}, Li Si, Wang Wu. (Year). Title. \textit{Journal}, \ldots.
+\end{thebibliography}
+
+\end{document}
+
