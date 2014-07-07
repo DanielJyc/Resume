@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2014.6.12)  7 JUL 2014 18:43
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2014.6.12)  7 JUL 2014 19:55
 entering extended mode
 **cv.tex
 (E:\快盘\Dropbox\LaTex\Resume\cn\cv.tex
@@ -1510,20 +1510,20 @@ Requested font "Adobe Song Std/ICU:script=latn;language=DFLT;mapping=tex-text;"
 LaTeX Font Info:    Font shape `EU1/Arial(0)/m/sl' will be
 (Font)              scaled to size 9.10121pt on input line 51.
 LaTeX Font Info:    Font shape `EU1/TimesNewRoman(0)/m/sl' will be
-(Font)              scaled to size 10.55183pt on input line 82.
+(Font)              scaled to size 10.55183pt on input line 83.
 LaTeX Font Info:    Font shape `EU1/TimesNewRoman(0)/m/sl' will be
-(Font)              scaled to size 8.67274pt on input line 82.
+(Font)              scaled to size 8.67274pt on input line 83.
 Requested font "Times New Roman/ICU:mapping=tex-text;" at 8.67274pt
  -> C:/WINDOWS/Fonts/times.ttf
 [1
 
 ]
 LaTeX Font Info:    Font shape `EU1/Arial(0)/bx/n' will be
-(Font)              scaled to size 8.31161pt on input line 93.
+(Font)              scaled to size 8.31161pt on input line 94.
 Requested font "Arial/B/ICU:mapping=tex-text;" at 8.31161pt
  -> C:/WINDOWS/Fonts/arialbd.ttf
 LaTeX Font Info:    Font shape `EU1/Arial(0)/m/it' will be
-(Font)              scaled to size 8.31161pt on input line 93.
+(Font)              scaled to size 8.31161pt on input line 94.
 Requested font "Arial/I/ICU:mapping=tex-text;" at 8.31161pt
  -> C:/WINDOWS/Fonts/ariali.ttf
 Requested font "Adobe Song Std" at 10.0pt
@@ -1546,12 +1546,12 @@ Requested font "Adobe Kaiti Std/ICU:script=latn;language=DFLT;mapping=tex-text;
 Requested font "Adobe Kaiti Std/ICU:script=latn;language=DFLT;mapping=tex-text;
 " at 10.0pt
  -> C:/WINDOWS/Fonts/AdobeKaitiStd-Regular.otf
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 97.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 97.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
  (E:\快盘\Dropbox\LaTex\Resume\cn\cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 97.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 97.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 98.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 98.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1561,7 +1561,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  20490 strings out of 430478
  393864 string characters out of 3191502
- 452279 words of memory out of 3000000
+ 453283 words of memory out of 3000000
  23338 multiletter control sequences out of 15000+200000
  17301 words of font info for 88 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
