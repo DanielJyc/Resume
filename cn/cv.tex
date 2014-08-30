@@ -1,12 +1,9 @@
 \documentclass[11pt,a4paper]{moderncv}
-
 \usepackage{fontspec,xunicode,xltxtra}
-
 \defaultfontfeatures{Scale=MatchLowercase}
 \setmainfont[Numbers=OldStyle,Mapping=tex-text]{Times New Roman}
 \setsansfont[Mapping=tex-text]{Arial}
 \setmonofont{Courier New}
-
 \usepackage[BoldFont,SlantFont,CJKchecksingle,CJKnumber,CJKtextspaces]{xeCJK}
 \setCJKmainfont[BoldFont={Adobe Heiti Std},ItalicFont={Adobe Kaiti Std}]{Adobe Song Std}
 \setCJKsansfont{Adobe Heiti Std}
@@ -15,79 +12,60 @@
 \defaultfontfeatures{Mapping=tex-text}
 \XeTeXlinebreaklocale "zh"
 \XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
-
 \usepackage{xcolor}
 \linespread{1.2}
-
 \moderncvtheme[blue]{classic}
-
 \usepackage[scale=0.95]{geometry}
 \AtBeginDocument{\recomputelengths}
-
 \setCJKfamilyfont{name}{Adobe Kaiti Std}
 \newcommand\name{\CJKfamily{name}}
-
 \firstname{\name{贾艳成}}
 \familyname{}
-\title{个人简历}
-
-\mobile{手机：13408466755}
-\email{邮箱：jiayancheng1@sina.com}
-\homepage{个人博客:http://danieljyc.github.io/}
-\photo[95pt]{picture3.jpg}
-\quote{\textit{求职意向：推荐系统、数据挖掘、图像处理等机器学习相关岗位}}
-
-%----------------------------------------------------------------------------------
-%            content
-%----------------------------------------------------------------------------------
+\title{河北/男/26岁}
+\mobile{手机： 13408466755}
+\email{邮箱： jiayancheng@foxmail.com}
+\homepage{Github： https://github.com/DanielJyc/}
+\photo[95pt]{pic3.jpg}
 \begin{document}
 \maketitle
+\vspace{-3em}      %缩小段落的间距
 
-\section{基本信息}
-\cvcomputer{姓\qquad 名：}{贾艳成}{性\qquad 别：}{男}
-\cvcomputer{民\qquad 族：}{汉族}{出\qquad 生：}{1987年01月06日}
-
-\section{最高学历}
-\cventry{2012年 -- 2014年}{硕士学位}{电子科技大学}{成都}{成绩中等}{控制工程}
-
-\section{科研经历}
-\cvline{2013年 -- 2014年}{滑坡预测模型及系统研制（已完成）}
-\cvline{}{$\bullet$ 作为项目负责人：实现滑坡泥石流监测系统件设计，并用Verhulst模型进行预警。撰写3篇论文，一篇专利。}
-
-\cvline{2014年 -- 2015年}{山火识别算法及系统研制（进行中）}
-\cvline{}{$\bullet$ 项目负责人}
-
-\cvline{其他经历}{广场红绿灯空气质量监测预警系统（校级项目——技术负责人）}
+\section{教育背景}
+\cventry{2012年 -- 2015年}{硕士学位}{电子科技大学}{成都}{成绩：前30\%}{控制工程(研究方向：模式识别)}
+\cventry{2008年 -- 2012年}{学士学位}{成都信息工程学院}{成都}{成绩：前10\%}{通信工程}
+\vspace{-1.4em}
 
 \section{个人技能}
-\cvline{专业技能}{$\bullet$ 熟悉几种数据挖掘算法：用过逻辑回归、随机森林、SVD++处理大数据}
-\cvline{}{$\bullet$ 熟悉Hive：用过类似平台ODPS-SQL}
-\cvline{}{$\bullet$ 用过ODPS-XLab做大数据分析：类似sas}
-\cvline{}{$\bullet$ 用过Python、分布式SQL、Java：在大数据处理中使用过}
-\cvline{}{$\bullet$ 用过简单的JS、HTML、PHP等网页相关知识：与日本同学合作编写微博应用}
-\cvline{}{$\bullet$ 了解C、Linux C、嵌入式C、Linux Shell、C++、LaTex等}
-\cvline{}{$\bullet$ 用过Github；用Markdown写个人博客（Hexo）；思维导图。}
-\cvline{}{$\bullet$ 发表EI论文1篇；专利1篇。}
-\cvline{}{$\bullet$ 次要技能：有一定的硬件开发实力：用过PCB、嵌入式知识}
-
+\cvline{主要技能}{$\bullet$ 学术能力：撰写论文4篇；专利1项。}
+\cvline{}{$\bullet$ 编程语言：掌握Java； 用过Python, SQL, C/C++等。}
+\cvline{}{$\bullet$ 算法：掌握常用的数据结构和算法。}
+\cvline{}{$\bullet$ 机器学习：用过逻辑回归、随机森林、GBRT、SVD++等。}
+\cvline{}{$\bullet$ 分布式：实现过简单的文件系统HDFS；写过MapReduce程序。}
+\cvline{}{$\bullet$ 图像处理：熟悉图像识别的基本方法。}
 \smallskip
-\cvline{英语水平}{$\bullet$ 主要技能：阅读英文专业资料；学习Youtube、Coursera英文教学视频}
-\cvline{}{$\bullet$ 六级：445}
+\cvline{英语水平}{$\bullet$  六级：445。 参与大数据专家组织的书籍翻译《Hadoop专业解决方案》。}
+\vspace{-1.4em}      %缩小段落的间距
 
-\section{竞赛情况}
-\cvlistitem[$\bullet$]{2014年参加“阿里巴巴大数据竞赛”，最高排名为第4名}
-\cvlistitem[$\bullet$]{2011年获“电子设计竞赛”省级三等奖}
-\cvlistitem[$\bullet$]{多次获得校级竞赛奖项}
+\section{项目经历}
+\cvline{2014年 -- 2015年}{\textbf{山火识别算法及系统开发（电力科学研究院项目，进行中）}}
+\cvline{}{$\bullet$ 简要描述：采集360度全景图像，对图像进行增强和分割，最后使用机器学习算法识别山火。}
+\cvline{}{$\bullet$ 职责：项目负责人。总体方案设计，图像的增强、分割，以及山火识别算法。1项专利。}
+\cvline{2013年 -- 2014年}{\textbf{滑坡预测模型及系统开发（电力科学研究院项目，已完成）}}
+\cvline{}{$\bullet$ 简要描述：通过多种传感器采集滑坡体的数据信息，预处理后，利用Verhulst模型进行滑坡预警。 }
+\cvline{}{$\bullet$ 职责：项目负责人。系统整体设计，Verhulst预警模型研究及应用，Zstack应用。\textbf{撰写3篇论文，1项专利（\emph{201310661203}）。}  }
+\vspace{-1.4em}      %缩小段落的间距
+
+\section{奖励、竞赛及其他经历}
+\cvline{奖学金}{$\bullet$ 1次一等奖学金，3次二等奖学金。}
+\cvline{阿里巴巴大数据竞赛（7276队）}{$\bullet$  简要描述：使用分布式平台ODPS，访问海量的天猫数据（5.7亿条，1000多万用户），并利用MapReduce、SQL及机器学习算法调试模型、提交结果。}
+\cvline{}{$\bullet$ 职责：模型设计及特征提取；利用ODPS-SQL、ODPS XLab、Python、Java等工具及语言。}
+\cvline{}{$\bullet$ 收获：曾连续十天左右排名前10。\textbf{撰写1篇论文(SVD++)。} }
+\cvline{电子设计竞赛}{$\bullet$ 省级二等奖}
+\cvline{HDFS简单实现}{$\bullet$ 分别使用Java和Python实现了分布式文件系统HDFS的最基本功能：文件上传、下载和删除等。}
+\cvline{微博WEB应用}{$\bullet$ 使用JavaScript、HTML和PHP等编程语言，与他人合作开发了一个基于微博的简单应用。}
+\vspace{-1.4em}      %缩小段落的间距
 
 \section{自我评价}
-\cvline{学习}{本科学到了一些“技术实力”；研究生在增强“实力”的同时，学到了一些“能力”，认识到了“想法很重要”}
-\cvline{性格}{喜欢认识新朋友，与人进行沟通交流；}
-
-
-\begin{thebibliography}{99}
-\bibitem{1}\textbf Cao Yongxing, Xue Zhihang, Zhang Changhua, Jia Yancheng.Design and application of online landslide monitoring system for transmission lines corridor based on the optical fiber sensing technology. \textit{ICMMR2014}.
-\bibitem{2}\textbf{}曹永兴,薛志航,张昌华,贾艳成,鲁庆华,蒋晨. (2013). 一种监测方法. \textit{专利申请号为2013106612030}.
-\end{thebibliography}
-
+\cvline{}{$\bullet$通过项目和竞赛学习到了一种方法：理论->实践->理论(论文)。}
+\cvline{}{$\bullet$ 性格开朗，热爱技术，有较强的自学能力和团队协作能力。}
 \end{document}
-
