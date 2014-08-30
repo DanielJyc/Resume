@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2014.6.12)  30 AUG 2014 17:39
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2014.6.12)  30 AUG 2014 17:48
 entering extended mode
 **cv.tex
 (D:\Dropbox\LaTex\Resume\en\cv.tex
@@ -1028,7 +1028,7 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@dimlist=\toks21
 
 (d:\CTEX\MiKTeX\tex\xelatex\xetexconfig\geometry.cfg))
-No file cv.aux.
+(D:\Dropbox\LaTex\Resume\en\cv.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
@@ -1049,7 +1049,7 @@ LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 39.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 39.
-(d:\CTEX\MiKTeX\tex\latex\tipa\t3cmr.fd
+ (d:\CTEX\MiKTeX\tex\latex\tipa\t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 39.
@@ -1071,6 +1071,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 39.
 LaTeX Info: Redefining \pageref on input line 39.
 LaTeX Info: Redefining \nameref on input line 39.
+
+(D:\Dropbox\LaTex\Resume\en\cv.out) (D:\Dropbox\LaTex\Resume\en\cv.out)
 \@outlinefile=\write3
 
 (D:\Dropbox\LaTex\Resume\en\moderncvthemecasual.sty
@@ -1240,6 +1242,10 @@ LaTeX Font Info:    Try loading font information for U+mvs on input line 88.
 (d:\CTEX\MiKTeX\tex\latex\marvosym\umvs.fd)
 Requested font "umvs" at 14.4pt
  -> umvs
+LaTeX Font Info:    Font shape `EU1/Arial(0)/m/sl' will be
+(Font)              scaled to size 7.48045pt on input line 88.
+Requested font "Arial/ICU:mapping=tex-text;" at 7.48045pt
+ -> C:/WINDOWS/Fonts/arial.ttf
  [1
 
 ]
@@ -1257,17 +1263,14 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 93.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  )
 (\end occurred when \iffalse on line 122 was incomplete) 
 Here is how much of TeX's memory you used:
- 20288 strings out of 430478
- 388129 string characters out of 3191502
- 441929 words of memory out of 3000000
- 23169 multiletter control sequences out of 15000+200000
- 16680 words of font info for 62 fonts, out of 3000000 for 9000
+ 20297 strings out of 430478
+ 388294 string characters out of 3191502
+ 442321 words of memory out of 3000000
+ 23171 multiletter control sequences out of 15000+200000
+ 16688 words of font info for 63 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  36i,11n,67p,550b,383s stack positions out of 5000i,500n,10000p,200000b,50000s
 

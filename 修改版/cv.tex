@@ -1,0 +1,103 @@
+\documentclass[11pt,a4paper]{moderncv}
+
+\usepackage{fontspec,xunicode,xltxtra}
+
+\defaultfontfeatures{Scale=MatchLowercase}
+\setmainfont[Numbers=OldStyle,Mapping=tex-text]{Times New Roman}
+\setsansfont[Mapping=tex-text]{Arial}
+\setmonofont{Courier New}
+
+\usepackage[BoldFont,SlantFont,CJKchecksingle,CJKnumber,CJKtextspaces]{xeCJK}
+\setCJKmainfont[BoldFont={Adobe Heiti Std},ItalicFont={Adobe Kaiti Std}]{Adobe Song Std}
+\setCJKsansfont{Adobe Heiti Std}
+\setCJKmonofont{Adobe Fangsong Std}
+\punctstyle{hangmobanjiao}
+\defaultfontfeatures{Mapping=tex-text}
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+\usepackage{xcolor}
+\linespread{1.2}
+
+\moderncvtheme[blue]{classic}
+
+\usepackage[scale=0.95]{geometry}
+\AtBeginDocument{\recomputelengths}
+
+\setCJKfamilyfont{name}{Adobe Kaiti Std}
+\newcommand\name{\CJKfamily{name}}
+
+\firstname{\name{贾艳成}}
+\familyname{      }
+\title{男/汉族/27岁 }
+
+\mobile{手机：13408466755}
+\email{邮箱：jiayancheng1@sina.com}
+\homepage{个人博客:http://danieljyc.github.io/}
+\photo[95pt]{picture3.jpg}
+\quote{\textit{岗位意向：数据挖掘、推荐系统、图像处理等}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+\maketitle
+
+
+\section{个人概述}
+\cvline{学术}{撰写4篇Paper，1项专利。}
+\cvline{项目}{两个项目负责人。}
+\cvline{竞赛}{阿里巴巴大数据竞赛（共7276支队伍），曾经连续数十天排名前10。}
+
+\section{最高学历}
+\cventry{2012年 -- 2015年}{硕士学位}{电子科技大学}{成都}{成绩：前30\%}{控制工程(研究方向：模式识别)}
+\cvline{}{主要课程：矩阵理论、最优化理论与应用、随机过程及应用等。}
+
+\section{个人技能}
+\cvline{主要技能}{$\bullet$ 学术能力：撰写论文4篇(3篇投稿中)；专利1项}
+\cvline{}{$\bullet$ 编程语言：C, Python, SQL, C++, Java}
+\cvline{}{$\bullet$ 数据挖掘算法：用逻辑回归、随机森林、GBRT、SVD++等处理天猫大数据}
+\cvline{}{$\bullet$ 数据挖掘工具：ODPS-SQL(类似Hive)、ODPS-XLab（类似sas）}
+\cvline{}{$\bullet$ 熟悉图像处理、识别的基本方法}
+\cvline{}{$\bullet$ 能够对基本问题进行建模}
+
+\cvline{次要技能}{$\bullet$ 用JS、HTML、PHP语言与他人合作编写微博应用；git/svn；用Markdown写个人博客（Hexo）；习惯用思维导图整理思路。}
+\cvline{}{$\bullet$ 了解Linux C、Linux Shell、LaTex等}
+\cvline{}{$\bullet$ 其他（嵌入式）：PCB、嵌入式、ZigBee}
+
+\smallskip
+\cvline{英语水平}{$\bullet$  六级：445}
+\cvline{}{$\bullet$ 参与大数据专家组织的书籍翻译《Hadoop专业解决方案》；参考 Youtube、Coursera 英文教学视频。 }
+
+\section{项目经历}
+\cvline{2014年 -- 2015年}{山火识别算法及系统研制（进行中）}
+\cvline{}{$\bullet$ 简要描述：360度采集全景图像，运用算法进行图像处理及山火识别。}
+\cvline{}{$\bullet$ 职责：项目负责人。总体方案设计，图像处理及山火识别算法。}
+
+\cvline{2013年 -- 2014年}{滑坡预测模型及系统研制（已完成）}
+\cvline{}{$\bullet$ 简要描述：通过多种传感器采集滑坡体的数据信息，预处理后，利用Verhulst模型进行滑坡预警。 }
+\cvline{}{$\bullet$ 职责：项目负责人。系统件设计，预警模型Verhulst。撰写3篇论文，1篇专利。}
+
+\cvline{其他项目}{广场红绿灯空气质量监测预警系统（本科——校级项目——技术负责人）}
+
+\section{竞赛奖励}
+\cvline{阿里巴巴大数据竞赛（7276队）}{$\bullet$  简要描述：使用分布式平台ODPS，访问海量的天猫数据（5.7亿条，1000多万用户），并利用MapReduce、SQL及各种平台集成的机器学习算法包调试模型、提交结果。}
+\cvline{}{$\bullet$ 职责：简单算法的设计及实现；利用ODPS-SQL、ODPS XLab、Python、Java等工具及语言。}
+\cvline{}{$\bullet$ 曾连续数十天排名前10。}
+\cvline{}{$\bullet$ 撰写1篇Paper。}
+\cvline{电子设计竞赛}{$\bullet$ 省级二等奖}
+\cvline{奖学金}{$\bullet$ 本科：2次二等，1次一等；研究生：1次二等。}
+
+\section{自我评价}
+\cvline{学习}{本科学到了一些“技术实力”；研究生在增强实力的同时，学到了一些“能力”，认识到了“想法很重要”。通过项目和竞赛学习到了一种方法：理论->实践->理论(Paper)。}
+\cvline{性格}{待人诚恳；喜欢认识新朋友，很快融入新环境。}
+
+
+\begin{thebibliography}{99}
+\bibitem{1}\textbf Cao Yongxing, Xue Zhihang, Zhang Changhua, Jia Yancheng.Design and application of online landslide monitoring system for transmission lines corridor based on the optical fiber sensing technology. \textit{ICMMR2014}.
+\bibitem{2}\textbf{}曹永兴,薛志航,张昌华,贾艳成,鲁庆华,蒋晨. (2013). 一种监测方法. \textit{专利申请号为2013106612030}.
+\end{thebibliography}
+\cvline{投稿中：}{一篇关于数据挖掘（推荐系统方向）；两篇关于Verhulst预测模型。}
+\end{document}
+
+
+
