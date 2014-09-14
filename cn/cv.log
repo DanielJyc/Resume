@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2014.6.12)  9 SEP 2014 20:33
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2014.6.12)  10 SEP 2014 21:43
 entering extended mode
 **cv.tex
 (D:\Dropbox\LaTex\Resume\cn\cv.tex
@@ -1488,17 +1488,17 @@ Requested font "Adobe Song Std/ICU:script=latn;language=DFLT;mapping=tex-text;"
 LaTeX Font Info:    Font shape `EU1/Arial(0)/m/sl' will be
 (Font)              scaled to size 9.10121pt on input line 40.
 LaTeX Font Info:    Font shape `EU1/Arial(0)/m/it' will be
-(Font)              scaled to size 9.10121pt on input line 61.
+(Font)              scaled to size 9.10121pt on input line 67.
 Requested font "Arial/I/ICU:mapping=tex-text;" at 9.10121pt
  -> C:/WINDOWS/Fonts/ariali.ttf
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 81.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 77.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 81.
  (D:\Dropbox\LaTex\Resume\cn\cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 77.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 77.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 81.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 81.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1506,10 +1506,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  )
 (\end occurred when \iffalse on line 122 was incomplete) 
 Here is how much of TeX's memory you used:
- 20468 strings out of 430478
- 393317 string characters out of 3191502
- 456121 words of memory out of 3000000
- 23322 multiletter control sequences out of 15000+200000
+ 20453 strings out of 430478
+ 393008 string characters out of 3191502
+ 452106 words of memory out of 3000000
+ 23307 multiletter control sequences out of 15000+200000
  17253 words of font info for 82 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  42i,9n,67p,592b,331s stack positions out of 5000i,500n,10000p,200000b,50000s
