@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2014.6.12)  10 SEP 2014 21:43
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2014.6.12)  15 SEP 2014 20:57
 entering extended mode
 **cv.tex
-(D:\Dropbox\LaTex\Resume\cn\cv.tex
+(E:\快盘\简历\Resume\cn\cv.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
-(D:\Dropbox\LaTex\Resume\cn\moderncv.cls
+(E:\快盘\简历\Resume\cn\moderncv.cls
 Document Class: moderncv 2008/06/17 v0.7 modern curriculum vitae document class
 
 (d:\CTEX\MiKTeX\tex\latex\base\size11.clo
@@ -212,7 +212,7 @@ Package graphics Info: Driver file: dvips.def on input line 91.
 \f@ncyO@olf=\skip49
 \f@ncyO@orf=\skip50
 )
-(D:\Dropbox\LaTex\Resume\cn\moderncvcompatibility.sty
+(E:\快盘\简历\Resume\cn\moderncvcompatibility.sty
 Package: moderncvcompatibility 2008/06/17 v0.7 modern curriculum vitae compatib
 ility patches
 )
@@ -1028,37 +1028,37 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@dimlist=\toks21
 
 (d:\CTEX\MiKTeX\tex\xelatex\xetexconfig\geometry.cfg))
-(D:\Dropbox\LaTex\Resume\cn\cv.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 35.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 35.
+(E:\快盘\简历\Resume\cn\cv.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 34.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 34.
  (d:\CTEX\MiKTeX\tex\latex\tipa\t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Font shape `EU1/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 10.55183pt on input line 35.
+(Font)              scaled to size 10.55183pt on input line 34.
 Requested font "Times New Roman/ICU:mapping=tex-text;" at 10.55183pt
  -> C:/WINDOWS/Fonts/times.ttf
 \AtBeginShipoutBox=\box37
-Package hyperref Info: Link coloring ON on input line 35.
+Package hyperref Info: Link coloring ON on input line 34.
 
 (d:\CTEX\MiKTeX\tex\latex\hyperref\nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -1068,14 +1068,14 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count185
 )
-LaTeX Info: Redefining \ref on input line 35.
-LaTeX Info: Redefining \pageref on input line 35.
-LaTeX Info: Redefining \nameref on input line 35.
+LaTeX Info: Redefining \ref on input line 34.
+LaTeX Info: Redefining \pageref on input line 34.
+LaTeX Info: Redefining \nameref on input line 34.
 
-(D:\Dropbox\LaTex\Resume\cn\cv.out) (D:\Dropbox\LaTex\Resume\cn\cv.out)
+(E:\快盘\简历\Resume\cn\cv.out) (E:\快盘\简历\Resume\cn\cv.out)
 \@outlinefile=\write3
 
-(D:\Dropbox\LaTex\Resume\cn\moderncvthemeclassic.sty
+(E:\快盘\简历\Resume\cn\moderncvthemeclassic.sty
 Package: moderncvthemeclassic 2008/06/17 v0.7 modern curriculum vitae style: cl
 assic
 LaTeX Font Info:    Font shape `EU1/Arial(0)/m/n' will be
@@ -1139,27 +1139,27 @@ Requested font "Adobe Kaiti Std/ICU:script=latn;language=DFLT;mapping=tex-text;
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 35.
+(hyperref)                removing `\<def>-command' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\xeCJK@family' on input line 35.
+(hyperref)                removing `\xeCJK@family' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 35.
+(hyperref)                removing `\<def>-command' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\xeCJK@family' on input line 35.
+(hyperref)                removing `\xeCJK@family' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 35.
+(hyperref)                removing `\<def>-command' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\xeCJK@family' on input line 35.
+(hyperref)                removing `\xeCJK@family' on input line 34.
 
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1195,12 +1195,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `EU1/Arial(0)/m/n' will be
-(Font)              scaled to size 14.36246pt on input line 36.
+(Font)              scaled to size 14.36246pt on input line 35.
 Requested font "Arial/ICU:mapping=tex-text;" at 14.36246pt
  -> C:/WINDOWS/Fonts/arial.ttf
 
 LaTeX Font Warning: Font shape `EU1/Arial(0)/m/sl' undefined
-(Font)              using `EU1/Arial(0)/m/n' instead on input line 36.
+(Font)              using `EU1/Arial(0)/m/n' instead on input line 35.
 
 Requested font "Adobe Heiti Std" at 17.28pt
  -> C:/WINDOWS/Fonts/AdobeHeitiStd-Regular.otf
@@ -1243,7 +1243,7 @@ Requested font "Adobe Heiti Std/ICU" at 17.28pt
 .................................................
 
 LaTeX Font Warning: Font shape `EU1/AdobeHeitiStd(0)/m/sl' undefined
-(Font)              using `EU1/AdobeHeitiStd(0)/m/n' instead on input line 36.
+(Font)              using `EU1/AdobeHeitiStd(0)/m/n' instead on input line 35.
 
 Requested font "Adobe Heiti Std/ICU:script=latn;language=DFLT;mapping=tex-text;
 " at 17.28pt
@@ -1253,9 +1253,9 @@ Requested font "Adobe Heiti Std/ICU:script=latn;language=DFLT;mapping=tex-text;
  -> C:/WINDOWS/Fonts/AdobeHeitiStd-Regular.otf
 
 LaTeX Font Warning: Font shape `EU1/TimesNewRoman(0)/m/sl' undefined
-(Font)              using `EU1/TimesNewRoman(0)/m/n' instead on input line 36.
+(Font)              using `EU1/TimesNewRoman(0)/m/n' instead on input line 35.
 
-LaTeX Font Info:    Try loading font information for U+mvs on input line 36.
+LaTeX Font Info:    Try loading font information for U+mvs on input line 35.
 (d:\CTEX\MiKTeX\tex\latex\marvosym\umvs.fd)
 Requested font "umvs" at 10.95pt
  -> umvs
@@ -1298,7 +1298,7 @@ Requested font "Adobe Heiti Std/ICU" at 10.95pt
 
 
 LaTeX Font Warning: Font shape `EU1/AdobeSongStd(0)/m/sl' undefined
-(Font)              using `EU1/AdobeSongStd(0)/m/n' instead on input line 36.
+(Font)              using `EU1/AdobeSongStd(0)/m/n' instead on input line 35.
 
 Requested font "Adobe Song Std/ICU:script=latn;language=DFLT;mapping=tex-text;"
  at 10.95pt
@@ -1307,7 +1307,7 @@ Requested font "Adobe Song Std/ICU:script=latn;language=DFLT;mapping=tex-text;"
  at 10.95pt
  -> C:/WINDOWS/Fonts/AdobeSongStd-Light (v5.010).otf
 LaTeX Font Info:    Font shape `EU1/TimesNewRoman(0)/m/sl' will be
-(Font)              scaled to size 13.87637pt on input line 36.
+(Font)              scaled to size 13.87637pt on input line 35.
 Requested font "Times New Roman/ICU:mapping=tex-text;" at 13.87637pt
  -> C:/WINDOWS/Fonts/times.ttf
 Requested font "umvs" at 14.4pt
@@ -1315,13 +1315,13 @@ Requested font "umvs" at 14.4pt
 File: pic3.jpg Graphic file (type QTm)
 <use  "pic3.jpg" >
 LaTeX Font Info:    Font shape `EU1/Arial(0)/m/n' will be
-(Font)              scaled to size 9.97394pt on input line 36.
+(Font)              scaled to size 9.97394pt on input line 35.
 Requested font "Arial/ICU:mapping=tex-text;" at 9.97394pt
  -> C:/WINDOWS/Fonts/arial.ttf
 LaTeX Font Info:    Font shape `EU1/Arial(0)/m/sl' will be
-(Font)              scaled to size 9.97394pt on input line 36.
+(Font)              scaled to size 9.97394pt on input line 35.
 LaTeX Font Info:    Font shape `EU1/Arial(0)/m/it' will be
-(Font)              scaled to size 9.97394pt on input line 36.
+(Font)              scaled to size 9.97394pt on input line 35.
 Requested font "Arial/I/ICU:mapping=tex-text;" at 9.97394pt
  -> C:/WINDOWS/Fonts/ariali.ttf
 Requested font "Adobe Song Std" at 12.0pt
@@ -1344,7 +1344,7 @@ Requested font "Adobe Kaiti Std/ICU:script=latn;language=DFLT;mapping=tex-text;
 Requested font "Adobe Kaiti Std/ICU:script=latn;language=DFLT;mapping=tex-text;
 " at 12.0pt
  -> C:/WINDOWS/Fonts/AdobeKaitiStd-Regular.otf
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 36.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 35.
  (d:\CTEX\MiKTeX\tex\latex\lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1354,7 +1354,7 @@ Requested font "rm-lmr8" at 8.0pt
  -> rm-lmr8
 Requested font "rm-lmr6" at 6.0pt
  -> rm-lmr6
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 36.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 35.
 
 (d:\CTEX\MiKTeX\tex\latex\lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1365,7 +1365,7 @@ Requested font "lmmi8" at 8.0pt
  -> lmmi8
 Requested font "lmmi6" at 6.0pt
  -> lmmi6
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 36.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 35.
 
  (d:\CTEX\MiKTeX\tex\latex\lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1376,30 +1376,30 @@ Requested font "lmsy8" at 8.0pt
  -> lmsy8
 Requested font "lmsy6" at 6.0pt
  -> lmsy6
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 36.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 35.
 
  (d:\CTEX\MiKTeX\tex\latex\lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 36.
+(Font)              <10.95> on input line 35.
 Requested font "lmex10" scaled 1000
  -> lmex10
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 36.
+(Font)              <8> on input line 35.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 36.
+(Font)              <6> on input line 35.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 36--36
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 35--35
  [][][]| [][]  
  []
 
 LaTeX Font Info:    Font shape `EU1/Arial(0)/m/n' will be
-(Font)              scaled to size 8.31161pt on input line 39.
+(Font)              scaled to size 8.31161pt on input line 38.
 Requested font "Arial/ICU:mapping=tex-text;" at 8.31161pt
  -> C:/WINDOWS/Fonts/arial.ttf
 LaTeX Font Info:    Font shape `EU1/Arial(0)/m/n' will be
-(Font)              scaled to size 11.96872pt on input line 39.
+(Font)              scaled to size 11.96872pt on input line 38.
 Requested font "Arial/ICU:mapping=tex-text;" at 11.96872pt
  -> C:/WINDOWS/Fonts/arial.ttf
 Requested font "Adobe Heiti Std" at 14.4pt
@@ -1445,7 +1445,7 @@ Requested font "Adobe Heiti Std/ICU:script=latn;language=DFLT;mapping=tex-text;
 " at 10.0pt
  -> C:/WINDOWS/Fonts/AdobeHeitiStd-Regular.otf
 LaTeX Font Info:    Font shape `EU1/Arial(0)/bx/n' will be
-(Font)              scaled to size 9.10121pt on input line 40.
+(Font)              scaled to size 9.10121pt on input line 39.
 Requested font "Arial/B/ICU:mapping=tex-text;" at 9.10121pt
  -> C:/WINDOWS/Fonts/arialbd.ttf
 Requested font "Adobe Song Std" at 10.95pt
@@ -1486,19 +1486,19 @@ Requested font "Adobe Song Std/ICU:script=latn;language=DFLT;mapping=tex-text;"
  at 10.95pt
  -> C:/WINDOWS/Fonts/AdobeSongStd-Light (v5.010).otf
 LaTeX Font Info:    Font shape `EU1/Arial(0)/m/sl' will be
-(Font)              scaled to size 9.10121pt on input line 40.
+(Font)              scaled to size 9.10121pt on input line 39.
 LaTeX Font Info:    Font shape `EU1/Arial(0)/m/it' will be
-(Font)              scaled to size 9.10121pt on input line 67.
+(Font)              scaled to size 9.10121pt on input line 62.
 Requested font "Arial/I/ICU:mapping=tex-text;" at 9.10121pt
  -> C:/WINDOWS/Fonts/ariali.ttf
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 81.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 81.
- (D:\Dropbox\LaTex\Resume\cn\cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 81.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 81.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
+ (E:\快盘\简历\Resume\cn\cv.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 83.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 83.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1507,8 +1507,8 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 (\end occurred when \iffalse on line 122 was incomplete) 
 Here is how much of TeX's memory you used:
  20453 strings out of 430478
- 393008 string characters out of 3191502
- 452106 words of memory out of 3000000
+ 392944 string characters out of 3191502
+ 455169 words of memory out of 3000000
  23307 multiletter control sequences out of 15000+200000
  17253 words of font info for 82 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
